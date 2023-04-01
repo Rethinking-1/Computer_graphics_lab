@@ -1,0 +1,11 @@
+P:\computer_graphics\test\test\bin\Debug\test.exe.config
+P:\computer_graphics\test\test\bin\Debug\test.exe
+P:\computer_graphics\test\test\bin\Debug\test.pdb
+P:\computer_graphics\test\test\obj\Debug\Image_processing_Denisov.csproj.AssemblyReference.cache
+P:\computer_graphics\test\test\obj\Debug\Image_processing_Denisov.csproj.SuggestedBindingRedirects.cache
+P:\computer_graphics\test\test\obj\Debug\test.Form1.resources
+P:\computer_graphics\test\test\obj\Debug\test.Properties.Resources.resources
+P:\computer_graphics\test\test\obj\Debug\Image_processing_Denisov.csproj.GenerateResource.cache
+P:\computer_graphics\test\test\obj\Debug\Image_processing_Denisov.csproj.CoreCompileInputs.cache
+P:\computer_graphics\test\test\obj\Debug\test.exe
+P:\computer_graphics\test\test\obj\Debug\test.pdb
